@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+roboflow
+opencv-python-headless
+streamlit-webrtc
+numpy
+av
